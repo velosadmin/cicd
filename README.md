@@ -8,3 +8,5 @@ npm install
 
 node app.js
 
+or run by docker compose.
+
